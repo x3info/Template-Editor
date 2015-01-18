@@ -11,8 +11,13 @@ To create a template just type the name and hit enter . nothing more .
 type command and hit enter
 
 To Delete - del
+
 TO Edit - edit
+
 Help Menu - help
+
 Exit from Delete Mode or Edit Mode - exit
+
 Author - about
+
 Exit from program - exit
