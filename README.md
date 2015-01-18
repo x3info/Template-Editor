@@ -1,4 +1,4 @@
-# Template-Editor
+#Information
 Template Editor is a tool that will allow you to create, edit and remove html5 template with css3 . It will automatically generate and load required files on certain folder and let your open with your default text editor like notepad++
 
 #Create Template
