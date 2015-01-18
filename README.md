@@ -1,23 +1,30 @@
 # Template-Editor
 Template Editor is a tool that will allow you to create, edit and remove html5 template with css3 . It will automatically generate and load required files on certain folder and let your open with your default text editor like notepad++
 
-#Author
-This tools is created by Jafran Ahmed, founder of Eso Coding Shikhi
-
 #Create Template
 To create a template just type the name and hit enter . nothing more . 
 
 #Commands
-type command and hit enter
+1. type command and hit enter
+2. To Delete - del
+3. TO Edit - edit
+4. To Show all Template in delete or edit mode - show
+5. Help Menu - help
+6. Exit from Delete Mode or Edit Mode - exit
+7. Author - about, x3
+8. Exit from program - exit
 
-To Delete - del
+#Installation
+1. Download Template-Editor.zip
+2. Extract The Folder
+3. Double click on templale.bat
 
-TO Edit - edit
+It will install automatically itself! 
+Enjoy!
 
-Help Menu - help
 
-Exit from Delete Mode or Edit Mode - exit
+#Credit
+This tools is created by Jafran Ahmed, founder of X3info Technology and 'Eso Coding Shikhi' opensource facebook group of programming school
 
-Author - about
-
-Exit from program - exit
+#Contact
+facebook.com/iamjafran
