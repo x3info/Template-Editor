@@ -17,7 +17,7 @@ To create a template just type the name and hit enter . nothing more .
 #Installation
 1. Download Template-Editor.zip
 2. Extract The Folder
-3. Double click on templale.bat
+3. Double click on editor.bat
 
 It will install automatically itself! 
 Enjoy!
